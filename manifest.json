@@ -1,22 +1,20 @@
 {
-  "name": "VIDA – Etapa de Equipo",
-  "short_name": "VIDA Equipo",
+  "name": "VIDA – Líderes",
+  "short_name": "VIDA",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#e9f2f2",
+  "background_color": "#07181d",
   "theme_color": "#0f4c5c",
   "icons": [
     {
       "src": "./icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "./icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
